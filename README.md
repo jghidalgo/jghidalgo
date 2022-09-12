@@ -8,7 +8,7 @@ import SoftwareDeveloper from 'JOANRODRIGUEZHIDALGO';
 class Bio extends SoftwareDeveloper {
   name     = 'Joan Rodriguez';
   title    = 'Full Stack Web Developer';
-  company  = 'Complete Dental Solutions | DITSHIELD';
+  company  = 'DEALER AUTOMATION SERVICES';
   location = 'Miami, FL';
 }
 
@@ -16,8 +16,9 @@ class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'PHP','HTML','CSS'];
   databases  = ['MySQL', 'MongoDB', 'Firebase'];
   frameworks = ['Angular', 'Laravel'];
+  libraries = ['React'];
   controlversions = ['GitHub'];
-  devops = ['Docker','Kubernetes','Jenkyns'];
+  devops = ['Docker''];
   cloudservices = ['AWS'];
 }
 ```
