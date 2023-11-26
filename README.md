@@ -6,19 +6,19 @@
 import SoftwareDeveloper from 'JOANRODRIGUEZHIDALGO';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Joan Rodriguez';
-  title    = 'Full Stack Web Developer';
-  company  = 'DEALER AUTOMATION SERVICES';
+  name     = 'Joan Rodriguez-Hidalgo';
+  title    = 'Cloud Engineer';
+  company  = 'DEALER AUTOMATION TECHNOLOGIES';
   location = 'Miami, FL';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP','HTML','CSS'];
+  languages  = ['JavaScript', 'PHP', 'C++'];
   databases  = ['MySQL', 'MongoDB', 'Firebase'];
   frameworks = ['Angular', 'Laravel'];
   libraries = ['React'];
   controlversions = ['GitHub'];
-  devops = ['Docker''];
+  devops = ['Docker', Jenkings, Bitbucket pipelines, Sonarqube];
   cloudservices = ['AWS'];
 }
 ```
