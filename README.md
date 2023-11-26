@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media-exp3.licdn.com/dms/image/C4D16AQEkVnov4G9MoQ/profile-displaybackgroundimage-shrink_350_1400/0/1587608141611?e=1631750400&v=beta&t=cxm5u6mcMwrx8vCXUupLRunyb9NW13WTpmmvOIPkTOo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/AWS_Band_logo.svg" />
 </p>
 
 ```js
