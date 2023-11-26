@@ -18,7 +18,7 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['Angular', 'Laravel'];
   libraries = ['React'];
   controlversions = ['GitHub'];
-  devops = ['Docker', Jenkings, Bitbucket pipelines, Sonarqube];
+  devops = ['Docker', 'Jenkins', 'Bitbucket pipelines', 'Sonarqube'];
   cloudservices = ['AWS'];
 }
 ```
